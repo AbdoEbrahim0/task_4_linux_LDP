@@ -116,7 +116,9 @@ Built in process monitor the system tray to manage all processes and keep an eye
  4.Mint is available in Cinnamon, MATE, KDE and Xfce versions. Flavors like GNOME, LXDE, and Fluxbox will no longer be developed.
  5.The product has been translated into 21 languages and enjoys an active user base in many countries.
  6.World’s leading open source digital wallet and crypto currency eCommerce platform.
- 7.Offers a full suite of services, including an integrated digital wallet, marketplace for buying and selling goods, merchant payment gateway, cryptocurrency exchange, and more.
+ 7.Offers a full suite of services, including an integrated digital wallet, marketplace for buying and selling goods, merchant payment gateway, cryptocurrency
+ 8.And now we have a gaming console/PC running Linux that actually doesn't suck, with support for Windows games.exchange, and more.
+ No one hates Linux Mint, everyone hates Ubuntu because canonical, the corporation that created Ubuntu ruined it, Linux Mint is the good Ubuntu, because it's ubuntu without canonical's bullshit
  
  # Cons
 1.The Linux Mint project does not provide security advice and has been criticized for not doing so on at least one occasion.
@@ -132,3 +134,28 @@ Interestingly Mint is a Linux distribution that is like Ubuntu. It has an interf
 Though Linux Mint may seem a little faster to use daily, but on older hardware, it will feel faster, while Ubuntu seems to work more better as the software ages. Mint becomes even faster when it runs, like Ubuntu.
 # Compatible apps
 Mint covers all the basics and with its Windows like Start menu, finding these apps is super easy. But, if you want an app that isn’t installed, both operating systems have “app stores” where you can find and download programs.
+
+# Does it A bug ? or A feature ? 
+![image](https://user-images.githubusercontent.com/116218046/221482767-97402ef8-5a6d-4aef-98b0-6a46ffaf73c3.png) 
+You can find the whole post and comments [It's official... i stopped distro hopping. Linux mint it is](https://www.reddit.com/r/linuxmint/comments/106dir6/its_official_i_stopped_distro_hopping_linux_mint/)
+
+# مهم اننا نضيف كوميكس او صور عن  الديسترو ف الريد مى عموما
+
+
+
+
+
+# experiences
+1.
+> Hello everyone!
+Wanted to share my experience using linux mint 21 with you guys.
+I stopped using windows last year, before W11 was released. I just could not stand all that lagging, insane delays and overheating anymore. Opening a single jpeg image was hell!
+I decided to give linux a try as suggested by a friend.
+My first linux distro was Ubuntu LTS (22.04 and the previous one). From that moment on i knew i could never switch back to windows again. Although i liked Ubuntu, i was getting some difficulties with zoom and streams and so i decided to give Fedora a chance.
+I used fedora 36 for some time and switched to 37 beta. I enjoyed all that novelty and usability but had lots of issues with my ProtonVPN and again with zoom. Maybe i could solve those problems if i tried a bit more...but i really needed things working right, quickly, due to online lesson im currently taking.
+Finally, i switched to Linux Mint 21 Vanessa (Cinammon) and i must say i'm impressed! Everything works like a charm! Its so stable, clean, efficient...I'm really happy i tried this distro and i believe it will be my choice for a long time ahead!
+Thanks Linux Mint Team! 
+2.
+if U still not sure about Distro i Recommend read comments section of that Post on reddit [Why Linux Mint hated ?] (https://www.reddit.com/r/linuxmasterrace/comments/v958x1/why_linux_mint_hated/) 
+3. 
+> Highly recommend Mint over Ubuntu, especially if you're coming from Windows and want to learn Linux rather than wasting your time relearning a new workflow (Linux has a concept of "Desktop Environment" or DE, which is the graphical layer. You can technically swap things out in either Mint or Ubuntu, but the out-of-the-box experience for Ubuntu will have a weird layout of taskbar / window buttons vs Mint's will be similar to Windows).But more importantly, the non-profit team behind Mint is very big on respecting it's users while the company behind Ubuntu is just pushing a product and don't really care about the user experience, unless you happen to agree with all the choices they've made for you.
