@@ -157,7 +157,8 @@ I used fedora 36 for some time and switched to 37 beta. I enjoyed all that novel
 Finally, i switched to Linux Mint 21 Vanessa (Cinammon) and i must say i'm impressed! Everything works like a charm! Its so stable, clean, efficient...I'm really happy i tried this distro and i believe it will be my choice for a long time ahead!
 Thanks Linux Mint Team! 
 2.
-if U still not sure about Distro i Recommend read comments section of that Post on reddit [Why Linux Mint hated ?] (https://www.reddit.com/r/linuxmasterrace/comments/v958x1/why_linux_mint_hated/) 
+if U still not sure about Distro i Recommend read comments section of that Post on reddit
+[Why Linux Mint hated ?](https://www.reddit.com/r/linuxmasterrace/comments/v958x1/why_linux_mint_hated/) 
 
 3. 
 > Highly recommend Mint over Ubuntu, especially if you're coming from Windows and want to learn Linux rather than wasting your time relearning a new workflow (Linux has a concept of "Desktop Environment" or DE, which is the graphical layer. You can technically swap things out in either Mint or Ubuntu, but the out-of-the-box experience for Ubuntu will have a weird layout of taskbar / window buttons vs Mint's will be similar to Windows).But more importantly, the non-profit team behind Mint is very big on respecting it's users while the company behind Ubuntu is just pushing a product and don't really care about the user experience, unless you happen to agree with all the choices they've made for you.
