@@ -137,6 +137,7 @@ Mint covers all the basics and with its Windows like Start menu, finding these a
 
 # Does it A bug ? or A feature ? 
 ![image](https://user-images.githubusercontent.com/116218046/221482767-97402ef8-5a6d-4aef-98b0-6a46ffaf73c3.png) 
+
 You can find the whole post and comments [It's official... i stopped distro hopping. Linux mint it is](https://www.reddit.com/r/linuxmint/comments/106dir6/its_official_i_stopped_distro_hopping_linux_mint/)
 
 # مهم اننا نضيف كوميكس او صور عن  الديسترو ف الريد مى عموما
